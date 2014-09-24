@@ -1,0 +1,11 @@
+{
+  "example1" : {
+    "playbook": "example.yml",
+    "ip": "10.0.10.11",
+    "config": {
+      "type": "virtualbox",
+      "cpus": 1,
+      "mem": 2048
+    }
+  }
+}

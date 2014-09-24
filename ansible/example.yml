@@ -1,0 +1,4 @@
+---
+- hosts: example
+  sudo: yes
+  gather_facts: yes
